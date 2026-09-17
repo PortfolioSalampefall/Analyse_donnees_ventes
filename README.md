@@ -16,8 +16,8 @@ Analyser les coûts de livraison.
 Identifier les tendances et anomalies dans les données.
 Construire un dashboard interactif permettant le suivi des KPI commerciaux.
 Transformer les données brutes en informations utiles à la prise de décision.
-🗂️ Données
 
+🗂️ Données
 Le dataset contient notamment des informations relatives à :
 
 Commandes
@@ -32,6 +32,7 @@ Remises
 Profits
 Coûts de livraison
 Dates de commande et de livraison
+
 🔄 Méthodologie
 1. Collecte et préparation des données
 
@@ -81,8 +82,8 @@ Catégorie
 Région
 Pays
 Client
-📈 KPI principaux
 
+📈 KPI principaux
 Le dashboard permet notamment de suivre :
 
 💰 Chiffre d'affaires
@@ -92,8 +93,8 @@ Le dashboard permet notamment de suivre :
 💸 Remise moyenne
 🚚 Coût de livraison
 📊 Marge / taux de profit
-📊 Visualisations
 
+📊 Visualisations
 Le reporting comprend notamment :
 
 Cartes KPI
@@ -105,6 +106,7 @@ Tableaux et matrices
 Analyse géographique
 Filtres interactifs
 Segmentation par catégorie et région
+
 🔎 Principales analyses
 Analyse temporelle
 
@@ -150,6 +152,7 @@ Technologie	Utilisation
 🔄 Power Query	Transformation des données
 📗 Excel	Source et préparation des données
 🔧 Git / GitHub	Versionnement du projet
+
 📁 Structure du projet
 Sales_Analysis/
 │
@@ -169,8 +172,9 @@ Sales_Analysis/
 │
 ├── README.md
 └── requirements.txt
-💡 Compétences démontrées
 
+
+💡 Compétences démontrées
 Ce projet démontre des compétences en :
 
 Data Cleaning
@@ -186,6 +190,7 @@ Pandas
 Analyse commerciale
 Data Storytelling
 Git & GitHub
+
 🚀 Perspectives d'amélioration
 
 Les prochaines étapes pourraient inclure :
@@ -197,8 +202,8 @@ Détection automatique des anomalies.
 Analyse de la Customer Lifetime Value.
 Mise en place d'un pipeline ETL automatisé.
 Automatisation de la mise à jour du dashboard.
-👤 Auteur
 
+👤 Auteur
 Sallah DIA
 Data Analyst | BI Analyst | Power BI Specialist
 
